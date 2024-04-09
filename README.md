@@ -1,10 +1,10 @@
-# [DE-Kursname hier eintragen]
+# Web-APIs mit ASP.NET Core 8
 
-Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `Web-APIs mit ASP.NET Core 8`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
 ![COURSENAME][lil-thumbnail-url] 
 
-[COURSEDESCRIPTION]
+Web-APIs sorgen beim Einsatz von internetfähigen Geräten für die Verbindung zum Server über eine einheitliche Schnittstelle: In diesem LinkedIn Learning-Kurs zeigt Ihnen Trainer Christian Wenz, wie Sie mit ASP.NET Core eine leistungsfähige REST-API implementieren, die von allen Clients angesprochen werden kann. Lernen Sie Lese- und Schreiboperationen kennen, machen Sie sich mit den verschiedenen Arten der API-Versionierung vertraut und erfahren Sie, wie Sie die API absichern können und vieles mehr. Sie sehen, wie .NET Ihre Arbeit unterstützt und die wichtigsten Tools (Visual Studio, Visual Studio Code) werden vorgestellt. Ein wenig Erfahrung in der Programmiersprache C# wäre für das Arbeiten mit dem Beispielcode hilfreich.
 
 ## Anleitung
 
@@ -19,14 +19,12 @@ Dieses Repository hat Unterordner für fast jedes Video im Kurs. Die Namenskonve
 
 ### Autor
 
-**[Name hier eintragen]**
+Christian Wenz
 
-_[Berufsbezeichnung hier eintragen]_
+_Berater und Unternehmer_
 
-Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors) an.
+Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/christian-wenz) an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
-
-[1]: # (End of DE-Instruction ###############################################################################################)
+[lil-course-url]: https://www.linkedin.com/learning/web-apis-mit-asp-dot-net-core-8
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHIWYfFJwlGQQ/learning-public-crop_675_1200/0/1711649030927?e=2147483647&v=beta&t=hAhQehMQDnfvfmUVXohYoknC_UeQmQBs4ylk_5B6IGE
